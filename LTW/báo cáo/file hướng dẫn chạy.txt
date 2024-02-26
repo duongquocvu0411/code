@@ -1,0 +1,11 @@
+hương1 dẫn cài đặt database
+b1: Tạo database trong MYSQL XAMPP  => http://localhost/phpmyadmin/
+b2:Import file do_an_ltw vào MYSQL XAMPP vừa tạo 
+b3: vào vs code mục .env dòng 14 sữa tên database thành tên database mình vừa tạo 
+
+ b5: chạy php artisan serve xong 
+
+lên giao diện laravel ấn nút home,login bên trên cùng lề phải sẽ hiện ra giao diện trang wed
+
+ADMIN
+TK: admin@gmail.com	mk:	123456
